@@ -16,7 +16,7 @@ Adzooma RSS feed is an test project written on Laravel 7.
 git clone https://github.com/adriantamasdevel/rss-feed
 cd rss-feed
 ```
-Rename ```app\.env.example``` to ```app\.env``` and fill your configuration settings.
+Rename ```app/.env.example``` to ```app/.env``` and fill your configuration settings.
 
 #### Installing docker containers (mysql, nginx and app):
 ```sh
