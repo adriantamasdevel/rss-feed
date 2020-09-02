@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Technology]]></title>
+        <description><![CDATA[BBC News - Technology]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Technology</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 01 Sep 2020 08:27:03 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Bella Thorne, OnlyFans and the battle over monetising content]]></title>
+            <description><![CDATA[Content creators say OnlyFans has slashed incomes by placing caps on prices charged on the platform.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53979625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53979625</guid>
+            <pubDate>Tue, 01 Sep 2020 03:42:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook threatens news sharing ban in Australia]]></title>
+            <description><![CDATA[The social media giant is preparing for a new law that would force it to pay publishers for news articles.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53981034</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53981034</guid>
+            <pubDate>Tue, 01 Sep 2020 04:30:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TikTok owner to 'strictly' obey China's tech takeover law]]></title>
+            <description><![CDATA[New rules mean Beijing could block the sale of the app's video recommendation engine.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53973279</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53973279</guid>
+            <pubDate>Mon, 31 Aug 2020 12:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google-Facebook ditch plans to dock giant data cable in Hong Kong]]></title>
+            <description><![CDATA[The US government had expressed concerns that China might steal data carried by the cable.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53972238</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53972238</guid>
+            <pubDate>Mon, 31 Aug 2020 20:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lee Jae-yong: Samsung heir faces fresh charges over 2015 merger]]></title>
+            <description><![CDATA[Lee Jae-yong faces new fraud charges, three years after being convicted of bribery and embezzlement.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53981033</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53981033</guid>
+            <pubDate>Tue, 01 Sep 2020 07:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yegor Zhukov: Leading Russian opposition blogger beaten up]]></title>
+            <description><![CDATA[Yegor Zhukov, who is critical of President Putin, narrowly avoided prison last year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53972592</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53972592</guid>
+            <pubDate>Mon, 31 Aug 2020 13:47:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Love Island stars and influencers paid to promote Test and Trace]]></title>
+            <description><![CDATA[Taxpayer money was used to pay influencers to promote Test and Trace.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53968222</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53968222</guid>
+            <pubDate>Sun, 30 Aug 2020 23:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla Autopilot detects speed limits and green lights]]></title>
+            <description><![CDATA[The new update is available to drivers in the US with Autopilot activated.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53973511</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53973511</guid>
+            <pubDate>Mon, 31 Aug 2020 16:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zoom profits double as revenues skyrocket]]></title>
+            <description><![CDATA[The popular video conferencing app has seen a 458% jump in customer growth compared with last year.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53979632</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53979632</guid>
+            <pubDate>Mon, 31 Aug 2020 22:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neuralink: Elon Musk unveils pig with chip in its brain]]></title>
+            <description><![CDATA[Gertrude the pig is a prototype of a brain-to-machine interface.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53956683</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53956683</guid>
+            <pubDate>Sat, 29 Aug 2020 10:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir Isaac Newton's notes among Cambridge web gallery 'treasures']]></title>
+            <description><![CDATA[Cambridge University Library adds high-resolution images of its collection to a free culture site.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-53948693</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-53948693</guid>
+            <pubDate>Sun, 30 Aug 2020 23:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple removes Fortnite developer Epic from App Store]]></title>
+            <description><![CDATA[The move is the latest in a row between Apple and Fortnite creator Epic over in-app payments.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53955183</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53955183</guid>
+            <pubDate>Fri, 28 Aug 2020 22:46:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mini robo-surgeon performs mock surgery and other news]]></title>
+            <description><![CDATA[BBC Click’s Omar Mehtab looks at some of the best technology news stories of the week.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53932368</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53932368</guid>
+            <pubDate>Fri, 28 Aug 2020 07:15:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What’s behind the US’s proposed WeChat ban?]]></title>
+            <description><![CDATA[The billion user social networking app can also be used for shopping, gaming and other activities.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53819514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53819514</guid>
+            <pubDate>Wed, 26 Aug 2020 07:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plane built on Mumbai rooftop takes to the skies]]></title>
+            <description><![CDATA[No one believed pilot Amol Yadav when he told them his plans, but he proved them wrong.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-53905897</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-53905897</guid>
+            <pubDate>Wed, 26 Aug 2020 03:48:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robo-chameleon tongue's high speed grab and other news]]></title>
+            <description><![CDATA[BBC Click’s Jen Copestake looks at some of the best technology news stories of the week.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53765522</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53765522</guid>
+            <pubDate>Fri, 21 Aug 2020 08:24:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Virtual time machine: ‘I can watch my life from 2019’]]></title>
+            <description><![CDATA[Lucas Rizzotto has built a "time machine" based on how he recorded life in 2019 with smart glasses.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53819506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53819506</guid>
+            <pubDate>Wed, 19 Aug 2020 09:28:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cloud gaming: Are game streaming services bad for the planet?]]></title>
+            <description><![CDATA[Remote streaming services may be the future but could cause a sharp rise in emissions, a study shows.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53838645</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53838645</guid>
+            <pubDate>Fri, 28 Aug 2020 23:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rival powers jockey for the lead in hypersonic aircraft]]></title>
+            <description><![CDATA[The US, China and Russia are pouring money into aircraft that can fly at five times the speed of sound.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53598874</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53598874</guid>
+            <pubDate>Mon, 31 Aug 2020 23:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The search engine boss who wants to help us all plant trees]]></title>
+            <description><![CDATA[Christian Kroll is the boss of Ecosia, which donates 80% of its profits to tree-planting projects.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53922786</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53922786</guid>
+            <pubDate>Sun, 30 Aug 2020 23:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seaweed: The food and fuel of the future?]]></title>
+            <description><![CDATA[The farming of seaweed is accelerating as firms exploit its fast growth and green credentials.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53610683</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53610683</guid>
+            <pubDate>Thu, 27 Aug 2020 22:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are clothing sizes so erratic and can they be fixed?]]></title>
+            <description><![CDATA[New apps use your phone to record your dimensions and recommend what size to buy at shops.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53584544</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53584544</guid>
+            <pubDate>Mon, 24 Aug 2020 23:22:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
