@@ -1,8 +1,6 @@
 <?php 
 namespace App\Http\Controllers;
 
-// use App\Models\Page;
-
 use App\Http\Controllers\Controller;
 use App\Models\Feed;
 use App\Services\Feeds as FeedsParser;
