@@ -1,5 +1,5 @@
 # Adzooma RSS feed 
-Adzooma RSS feed is an test project written on Laravel 7.
+Adzooma RSS feed is a test project written on Laravel 7.
 ### Tech
 
 * Laravel 7
