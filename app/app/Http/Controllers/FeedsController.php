@@ -6,10 +6,6 @@ use App\Models\Feed;
 use App\Http\Requests\FeedStoreRequest;
 use App\Http\Controllers\Controller;
 
-
-
-
-
 class FeedsController extends Controller
 {
 
